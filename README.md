@@ -12,7 +12,7 @@ Content:
       <img width="441" height="1">
       <p> 
         <small>
-          EXAMPLE TEXT
+          Title
         </small>
       </p>
     </th>
@@ -20,7 +20,7 @@ Content:
       <img width="441" height="1">
       <p> 
         <small>
-          EXAMPLE TEXT
+          Content
         </small>
       </p>
     </th>
@@ -30,7 +30,7 @@ Content:
       CODE
     </td>
     <td align="center">
-      main
+      <a href=https://github.com/AbdulazizAlshehri/ML-Classification-Fetal-Health/blob/main/fetal_health.ipynb> main </a>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ Content:
       DATA
     </td>
     <td align="center">
-      fetal_health.csv
+      <a href=https://github.com/AbdulazizAlshehri/ML-Classification-Fetal-Health/blob/main/fetal_health.csv> fetal_health.csv </a>
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ Content:
       PRESENTATION
     </td>
     <td align="center">
-      presentation
+      <a href=https://github.com/AbdulazizAlshehri/ML-Classification-Fetal-Health/blob/main/Presentation/presentation%20fetal%20health.pdf> presentation </a>
     </td>
   </tr>
 </table>
