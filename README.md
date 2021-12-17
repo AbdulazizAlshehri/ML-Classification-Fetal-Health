@@ -16,7 +16,6 @@ Content:
         </small>
       </p>
     </th>
-    
     <th align="center">
       <img width="441" height="1">
       <p> 
@@ -26,7 +25,6 @@ Content:
       </p>
     </th>
   </tr>
-  
   <tr>
     <td align="center">
       CODE
@@ -35,7 +33,6 @@ Content:
       main
     </td>
   </tr>
-
   <tr>
     <td align="center">
       DATA
@@ -44,16 +41,14 @@ Content:
       fetal_health.csv
     </td>
   </tr>
-  
-    <tr>
-      <td align="center">
-        PRESENTATION
-      </td>
-      <td align="center">
-        presentation
-      </td>
-    </tr>
-  
+  <tr>
+    <td align="center">
+      PRESENTATION
+    </td>
+    <td align="center">
+      presentation
+    </td>
+  </tr>
 </table>
 
 # About
