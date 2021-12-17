@@ -6,7 +6,7 @@
       <img width="441" height="1">
       <p> 
         <small>
-          
+          Title
         </small>
       </p>
     </th>
