@@ -1,10 +1,4 @@
-# ML-Classification-Fetal-Health
-Content:
-| Title        | Content      |
-| -----------  | -----------  |
-| Code         | Main File    |
-| Presentation | Presentation |
-| Models       | Linear Regression <br> Random Forest <br> XGB | 
+# Machine Learning Classification (Fetal Health)
 
 <table>
   <tr>
