@@ -49,4 +49,7 @@
 According to the United Nations (2017) over 211 death per 100,000 live birth, Most could have been PREVENTED if appropriate care was provided. In this project, we compared classification algorithms such as Logistic Regression, Random Forest, and xGBoost on the multi-class imbalance fetal-health dataset, to predict Fetal Health (Normal, Normal, or Pathological). Moreover, we've tested google cloud AutoML services.
 
 
-*Contributors [Ibrahim Alzuhairi](https://github.com/ibalzuhairi), [Abdulaziz Alshehri](https://github.com/AbdulazizAlshehri)*
+</br>
+This project was done to fulfill SDAIA T5 Bootcamp requirements.
+
+*Contributors [Ibrahim Alzuhairi](https://github.com/ibalzuhairi) and [Abdulaziz Alshehri](https://github.com/AbdulazizAlshehri)*
